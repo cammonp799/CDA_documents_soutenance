@@ -1,6 +1,6 @@
 # Dossiers de soutenance pour le titre professionnel CDA
 
-Ces dossiers ont été réalisés dans le cadre de ma préparation à la soutenance orale du titre professionnel Concepteur Développeur D'application.
+Ces dossiers ont été réalisés dans le cadre de ma préparation à la soutenance orale du titre professionnel de Concepteur Développeur D'application.
 
 - Dossier du mémoire : Présente en détail la conception et la réalisation de mon projet fil rouge.
   
