@@ -1,2 +1,9 @@
-# CDA_documents_soutenance
-Préparation à la soutenance du titre Concepteur Développeur d’Applications.   📘 Mémoire : conception et réalisation du fil rouge (analyse, architecture, choix techniques, bilan).   📁 Dossier professionnel : projets concrets, extraits de code, méthodologies et démonstrations.   📊 Diaporama PDF prêt pour la soutenance.
+# Dossiers de soutenance pour le titre professionnel CDA
+
+Ces dossiers ont été réalisés dans le cadre de ma préparation à la soutenance orale du titre professionnel Concepteur Développeur D'application.
+
+- Dossier du mémoire : Présente en détail la conception et la réalisation de mon projet fil rouge.
+  
+- Dossier professionnel : contient mes réalisations et permet de démontrer ma pratique professionnelle.
+  
+- Diaporama de présentation : Disponible au format PDF pour la soutenance.
